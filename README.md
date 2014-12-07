@@ -25,6 +25,10 @@ function render() {
 }
 ```
 
+You can run the demo on RequireBin:
+
+http://requirebin.com/?gist=1347c3e7fd430a191545
+
 ## Usage
 
 [![NPM](https://nodei.co/npm/mat4-interpolator.png)](https://nodei.co/npm/mat4-interpolator/)
