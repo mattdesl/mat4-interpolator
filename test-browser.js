@@ -26,6 +26,10 @@ require('domready')(function() {
 
     var lerp = Interpolator(start, end)
 
+    // function loop() {
+    //     animate()
+    // }
+
     function animate() {
         var tween = { value: 0 }
         //Note we aren't handling non-invertible edge 
