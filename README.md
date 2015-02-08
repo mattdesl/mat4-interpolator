@@ -25,6 +25,8 @@ function render() {
 }
 ```
 
+**Note:** [mat4-interpolate](https://www.npmjs.com/package/mat4-interpolate) is recommended for most use cases, but this module may be useful to avoid decomposing static matrices every frame.
+
 You can run the demo on RequireBin:
 
 http://requirebin.com/?gist=1347c3e7fd430a191545
