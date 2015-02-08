@@ -1,6 +1,6 @@
 {
   "name": "mat4-interpolator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "interpolates two 4x4 matrices",
   "main": "index.js",
   "license": "MIT",
